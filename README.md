@@ -1,7 +1,7 @@
 mlops-deploy
 ==============================
 
-curso mlops deploy alura
+In this repository you'll find an API that have two endpoints: one to measure the polarity of a phrase, and another to predict house prices.
 
 Project Organization
 ------------
